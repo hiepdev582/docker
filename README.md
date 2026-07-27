@@ -12,4 +12,6 @@
 - Multi-stage
 - Bind mounts
 
+---
+
 ## Docker compose
